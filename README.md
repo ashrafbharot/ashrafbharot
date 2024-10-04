@@ -4,6 +4,7 @@
 
 - **Languages:** C, C++, Advanced OOPs, JavaScript, Python
 - **Web Development:** HTML, CSS, Tailwind
+- **Cloud Technologies:** Microsoft Cloud Technologies (Azure)
 - **Databases:** MongoDB, SQL
 - **Cybersecurity:** Certified Ethical Hacker (CEH) - Skilled in ethical hacking techniques, vulnerability analysis, and penetration testing
 
@@ -20,4 +21,4 @@ With my ethical hacking certification, I also focus on identifying vulnerabiliti
 - Email: ashrafbharot@gmail.com
 - LinkedIn: linkedin.com/in/ashraf-bharot
 
-I'm open to new opportunities and collaborations in the fields of **data analysis**, **software development**, and **cybersecurity**!
+I'm open to new opportunities and collaborations in the fields of **data analysis**, **software development**
