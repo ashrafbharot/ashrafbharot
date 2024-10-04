@@ -16,8 +16,8 @@ I'm particularly interested in pursuing a career in **Data Analysis**, where I c
 
 ## Connect with Me
 
-- Email: [your email address]
-- LinkedIn: [your LinkedIn profile link]
+- Email: ashrafbharot@gmail.com
+- LinkedIn:linkedin.com/in/ashraf-bharot
 
 I'm open to new opportunities and collaborations in the field of data analysis and software development!
 
