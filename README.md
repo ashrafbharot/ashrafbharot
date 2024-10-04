@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Ashraf Bharot, a Computer Programming student at Seneca College with a passion for data analysis and software development. I have hands-on experience in various programming languages and technologies, including:
 
-- **Languages:** C, C++, Advanced OOPs, JavaScript
+- **Languages:** C, C++, Advanced OOPs, JavaScript, Python
 - **Web Development:** HTML, CSS, Tailwind
 - **Databases:** MongoDB, SQL
 
